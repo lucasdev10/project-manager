@@ -10,6 +10,17 @@
       "cost": 1000,
       "services": [],
       "id": 1
+    },
+    {
+      "name": "asdasd",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
     }
   ],
   "categories": [
